@@ -2,7 +2,7 @@
 // @name         YouTube PiP and Loop for Safari
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Picture-in-Picture, Loop, and Sleep Timer for YouTube on iPhone browsers
+// @description  Picture-in-Picture, Loop, and Sleep Timer for YouTube on Safari
 // @author       nvkob1
 // @match        *://www.youtube.com/*
 // @match        *://m.youtube.com/*
