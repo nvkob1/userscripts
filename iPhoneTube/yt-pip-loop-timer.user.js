@@ -7,6 +7,8 @@
 // @match        *://www.youtube.com/*
 // @match        *://m.youtube.com/*
 // @match        *://youtube.com/*
+// @downloadURL   https://github.com/nvkob1/userscripts/raw/refs/heads/main/iPhoneTube/yt-pip-loop-timer.user.js
+// @updateURL     https://github.com/nvkob1/userscripts/raw/refs/heads/main/iPhoneTube/yt-pip-loop-timer.user.js
 // @grant        none
 // ==/UserScript==
 
